@@ -1,4 +1,4 @@
-https://kkyp96ruveinzp5lpzx5fe.streamlit.app/import os
+import os
 import re
 
 from fugashi import Tagger
